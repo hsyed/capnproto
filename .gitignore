@@ -35,3 +35,11 @@
 
 # cabal-install artifacts
 /compiler/dist/
+
+/build/
+/c++/src/capnp/test-import.capnp.c++
+/c++/src/capnp/test-import.capnp.h
+/c++/src/capnp/test-import2.capnp.c++
+/c++/src/capnp/test-import2.capnp.h
+/c++/src/capnp/test.capnp.c++
+/c++/src/capnp/test.capnp.h
